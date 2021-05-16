@@ -70,5 +70,4 @@ performance[1][1] = precision
 performance[1][2] = recall
 performance[1][3] = f1Score
 
-
 del tp, tn, fp, fn, accuracy, precision, recall, f1Score
